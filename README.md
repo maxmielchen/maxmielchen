@@ -1,3 +1,3 @@
 ### Waffelle
 
-<iframe src="https://giphy.com/embed/l0K4lUxBzIOeJd1EA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vhs-positive-vhspositive-l0K4lUxBzIOeJd1EA">via GIPHY</a></p>
+![Space](https://media2.giphy.com/media/l0K4lUxBzIOeJd1EA/giphy.gif?cid=ecf05e4796o6dvjjwzlud1k7uhkzx1mdkgw1xjjn03p65v7g&rid=giphy.gif)
