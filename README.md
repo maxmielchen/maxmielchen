@@ -1,5 +1,3 @@
-![Space](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
-
 ## Stats
 
 ![Max Mielchen GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmielchen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
