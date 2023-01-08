@@ -1,6 +1,29 @@
 ![Space](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
 ---
+
+## Technologies I use
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,dart,go,py,java,kotlin,groovy,gradle,maven,latex,md)](https://skillicons.dev)
+
+### Frameworks
+[![Languages](https://skillicons.dev/icons?i=arduino,raspberrypi,bootstrap,dotnet,flutter,hibernate,selenium,tensorflow)](https://skillicons.dev)
+
+### Cloud
+[![Languages](https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,mysql,postgres,redis,nginx,nodejs)](https://skillicons.dev)
+
+### Applications
+[![Languages](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,cloudflare,figma)](https://skillicons.dev)
+
+### Git
+[![Languages](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)](https://skillicons.dev)
+
+### Systems (OS)
+[![Languages](https://skillicons.dev/icons?i=linux,openshift,bsd)](https://skillicons.dev)
+
+---
+
 ## Social Media
 
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/max-mielchen?label=Reddit%20u%2Fmax-mielchen&style=social)](https://www.reddit.com/user/max-mielchen)
