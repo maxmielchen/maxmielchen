@@ -1,8 +1,10 @@
 ![Space](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
----
+## Stats
 
-## Technologies I use
+![Max Mielchen GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmielchen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+## Stack
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,dart,go,py,java,kotlin,groovy,gradle,maven,latex,md)](https://skillicons.dev)
@@ -21,8 +23,6 @@
 
 ### Systems (OS)
 [![Languages](https://skillicons.dev/icons?i=linux,openshift,bsd)](https://skillicons.dev)
-
----
 
 ## Social Media
 
