@@ -5,22 +5,22 @@
 ## Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,dart,go,py,java,kotlin,groovy,gradle,maven,latex,md)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,dart,go,py,java,kotlin,groovy,gradle,maven,latex,md)
 
 ### Frameworks
-[![Languages](https://skillicons.dev/icons?i=arduino,raspberrypi,bootstrap,dotnet,flutter,hibernate,selenium,tensorflow)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=arduino,raspberrypi,bootstrap,dotnet,flutter,hibernate,selenium,tensorflow)
 
 ### Cloud
-[![Languages](https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,mysql,postgres,redis,nginx,nodejs)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,mysql,postgres,redis,nginx,nodejs)
 
 ### Applications
-[![Languages](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,cloudflare,figma)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,cloudflare,figma)
 
 ### Git
-[![Languages](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)
 
 ### Systems (OS)
-[![Languages](https://skillicons.dev/icons?i=linux,openshift,bsd)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=linux,openshift,bsd)
 
 ## Social Media
 
