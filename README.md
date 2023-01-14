@@ -14,7 +14,7 @@
 ![Languages](https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,mysql,postgres,redis,nginx,nodejs)
 
 ### Applications
-![Languages](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,cloudflare,figma)
+![Languages](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,figma)
 
 ### Git
 ![Languages](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)
