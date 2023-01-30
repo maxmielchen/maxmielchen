@@ -5,7 +5,7 @@
 ## Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,rust,dart,go,py,java,kotlin,gradle,maven,latex,md)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,rust,dart,go,py,java,kotlin,gradle,maven)
 
 ### Frameworks
 ![Languages](https://skillicons.dev/icons?i=arduino,raspberrypi,bootstrap,dotnet,flutter,hibernate,selenium,tensorflow)
