@@ -8,19 +8,19 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,php,css,bash,c,cs,cpp,rust,dart,go,py,java,kotlin,gradle,maven)
 
 ### Frameworks
-![Languages](https://skillicons.dev/icons?i=arduino,raspberrypi,bootstrap,dotnet,flutter,hibernate,selenium,tensorflow)
+![Frameworks](https://skillicons.dev/icons?i=arduino,raspberrypi,bootstrap,dotnet,flutter,jenkins,ktor,hibernate,selenium,tensorflow)
 
 ### Cloud
-![Languages](https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,mysql,postgres,redis,nginx,nodejs)
+![Cloud](https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,mysql,postgres,cassandra,sqlite,redis,grafana,nginx,nodejs)
 
 ### Applications
-![Languages](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,figma)
+![Applications](https://skillicons.dev/icons?i=blender,eclipse,idea,vim,visualstudio,vscode,figma)
 
 ### Git
-![Languages](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)
+![Git](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)
 
 ### Systems (OS)
-![Languages](https://skillicons.dev/icons?i=linux,openshift,bsd)
+![Systems](https://skillicons.dev/icons?i=linux,openshift,bsd)
 
 ## Social Media
 
