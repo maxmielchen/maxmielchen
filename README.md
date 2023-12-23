@@ -11,6 +11,6 @@
 
 ## Social Media
 
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/max-mielchen?style=flat)](https://www.reddit.com/user/max-mielchen)
-[![Discord](https://img.shields.io/badge/Discord-Max%20Mielchen%231748-%23404eed)](https://discord.com/users/1060943403837300847)
+[![Reddit](https://www.reddit.com/favicon.ico)](https://www.reddit.com/user/max-mielchen)
+[![Instagram](https://www.instagram.com/favicon.ico)](https://www.instagram.com/maxmielchen/)
 
