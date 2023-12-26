@@ -7,7 +7,7 @@
 ```
 
 ### Stack
-![Stack](https://skillicons.dev/icons?i=java,docker,postgres)
+![Stack](https://skillicons.dev/icons?i=rust,java,docker,postgres)
 
 ### Social Media
 
